@@ -1,0 +1,110 @@
+TOOL:	xrun	23.09-s001: Started on Sep 19, 2025 at 01:19:36 EDT
+xrun: 23.09-s001: (c) Copyright 1995-2023 Cadence Design Systems, Inc.
+	Top level design units:
+		calender
+Loading snapshot worklib.calender:sv .................... Done
+xcelium> source /xcelium23.09/tools/xcelium/files/xmsimrc
+xcelium> run
+
+JANUARY
+sun	mon	tue	wed	thu	fri	sat
+			        	1	  2	  3	
+4	  5	  6	  7	  8	  9	  10	
+11	12	13	14	15	16	17	
+18	19	20	21	22	23	24	
+25	26	27	28	29	30	31	
+
+
+FEBRUARY
+sun	mon	tue	wed	thu	fri	sat
+1  	2	  3	  4	  5  	6  	7	
+8  	9	  10	11	12	13	14	
+15	16	17	18	19	20	21	
+22	23	24	25	26	27	28	
+
+
+MARCH
+sun	mon	tue	wed	thu	fri	sat
+1  	2	  3	  4	  5  	6	  7	
+8  	9	  10	11	12	13	14	
+15	16	17	18	19	20	21	
+22	23	24	25	26	27	28	
+29	30	31	
+
+APRIL
+sun	mon	tue	wed	thu	fri	sat
+			      1	  2	  3  	4	
+5	  6	  7  	8	  9	  10	11	
+12	13	14	15	16	17	18	
+19	20	21	22	23	24	25	
+26	27	28	29	30	
+
+MAY
+sun	mon	tue	wed	thu	fri	sat
+					          1	  2	
+3	  4  	5  	6	  7	  8  	9	
+10	11	12	13	14	15	16	
+17	18	19	20	21	22	23	
+24	25	26	27	28	29	30	
+31	
+
+JUNE
+sun	mon	tue	wed	thu	fri	sat
+  	1  	2  	3  	4  	5  	6	
+7	  8  	9  	10	11	12	13	
+14	15	16	17	18	19	20	
+21	22	23	24	25	26	27	
+28	29	30	
+
+JULY
+sun	mon	tue	wed	thu	fri	sat
+			      1  	2  	3  	4	
+5	  6  	7  	8  	9  	10	11	
+12	13	14	15	16	17	18	
+19	20	21	22	23	24	25	
+26	27	28	29	30	31	
+
+AUGUST
+sun	mon	tue	wed	thu	fri	sat
+						            1	
+2	  3  	4  	5  	6  	7  	8	
+9  	10	11	12	13	14	15	
+16	17	18	19	20	21	22	
+23	24	25	26	27	28	29	
+30	31	
+
+SEPTEMBER
+sun	mon	tue	wed	thu	fri	sat
+		    1  	2  	3  	4  	5	
+6  	7  	8  	9  	10	11	12	
+13	14	15	16	17	18	19	
+20	21	22	23	24	25	26	
+27	28	29	30	
+
+OCTOBER
+sun	mon	tue	wed	thu	fri	sat
+			        	1	  2	  3	
+4	  5	  6	  7  	8  	9  	10	
+11	12	13	14	15	16	17	
+18	19	20	21	22	23	24	
+25	26	27	28	29	30	31	
+
+
+NOVEMBER
+sun	mon	tue	wed	thu	fri	sat
+1  	2  	3  	4  	5  	6  	7	
+8  	9  	10 	11	12	13	14	
+15	16	17	18	19	20	21	
+22	23	24	25	26	27	28	
+29	30	
+
+DECEMBER
+sun	mon	tue	wed	thu	fri	sat
+		    1  	2  	3  	4  	5	
+6	  7	  8  	9  	10	11	12	
+13	14	15	16	17	18	19	
+20	21	22	23	24	25	26	
+27	28	29	30	31	
+xmsim: *W,RNQUIE: Simulation is complete.
+xcelium> exit
+TOOL:	xrun	23.09-s001: Exiting on Sep 19, 2025 at 01:19:37 EDT  (total: 00:00:01)
