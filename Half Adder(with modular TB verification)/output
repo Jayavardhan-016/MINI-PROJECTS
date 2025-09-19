@@ -1,0 +1,4 @@
+# KERNEL: a=0	b=1	sum=1	     sum=0
+# KERNEL: a=1	b=1	sum=0	     sum=1
+# KERNEL: a=1	b=1	sum=0	     sum=1
+# KERNEL: a=1	b=0	sum=1	     sum=0
