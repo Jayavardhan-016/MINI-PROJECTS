@@ -1,4 +1,4 @@
-My Verilog Project: Building and Breaking a 4-bit Adder
+## My Verilog Project: Building and Breaking a 4-bit Adder
 Welcome! This project is a simple dive into digital design where I built a classic 4-bit Ripple Carry Adder (RCA) in Verilog.
 
 The fun part? I made two versions:
